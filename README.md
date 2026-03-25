@@ -10,7 +10,6 @@ Python (Pandas, Matplotlib)
 
 Power BI Desktop
 
-Excel (Data Handling)
 
 ## Project Workflow ##
 
