@@ -1,10 +1,10 @@
 ### Sales Performance Analysis & Dashboard ###
 
-Project Overview
+## Project Overview ##
 
 This project focuses on analyzing sales data to identify key business trends and performance metrics. The goal was to extract meaningful insights and present them through an interactive dashboard.
 
-Tools & Technologies
+## Tools & Technologies ##
 
 Python (Pandas, Matplotlib)
 
@@ -12,7 +12,7 @@ Power BI Desktop
 
 Excel (Data Handling)
 
-Project Workflow
+## Project Workflow ##
 
 1. Data Cleaning & Preparation
 Loaded dataset using Python
@@ -33,16 +33,14 @@ Top Products
 Category Distribution
 Implemented filters for dynamic analysis
 
-Key Insights
-
+## Key Insights ##
 Peak sales observed during specific months
 
 Certain products contribute significantly to total revenue
 
 Technology category shows higher performance compared to others
 
-How to Run
-
+## How to Run ##
 Open the Jupyter Notebook and run all cells
 
 Load dataset into Power BI
